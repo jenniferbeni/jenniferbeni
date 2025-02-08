@@ -1,4 +1,4 @@
-# Hi there! I'm **Jennifer** 🦋
+# Hey :) I'm **Jeni** 🦋
 
 Welcome to my GitHub! I'm a **software engineer** with a passion for **AI, fashion-tech, and music**. My goal is to build innovative AI-powered applications that fuse my love for the arts and tech.
 
