@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm deeply passionate about **AI, fashion-tech, and music*
 
 - 🧠 I love **AI, machine learning, and creative technology**
 - 🔥 Working on **AI-driven fashion recommendations and music tech**
-- 🎤 I'm a singer-songwriter (check out my music!)
+- 🎤 I'm a **singer-songwriter** (check out my music!)
 
 ---
 
