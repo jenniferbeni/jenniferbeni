@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm deeply passionate about **AI, fashion-tech, and music*
 ---
 
 ## 💻 Tech and Tools
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,java,python,tensorflow,pytorch,numpy,pandas,matplotlib,huggingface,vscode,illustrator,premiere,photoshop)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,php,java,python,tensorflow,pytorch,numpy,pandas,matplotlib,huggingface,vscode,illustrator,premiere,photoshop)
 
 ## 🌟 Fav Projects
 - 🎨 [AI Fashion Stylist](https://github.com/jenniferbeni/AI-Stylist)
