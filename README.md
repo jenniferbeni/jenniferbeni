@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm deeply passionate about **AI, fashion-tech, and music*
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech and Tools
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,java,python,tensorflow,pytorch,numpy,pandas,matplotlib,huggingface,vscode,illustrator,premiere,photoshop)
 
 ## 🌟 Fav Projects
