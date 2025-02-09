@@ -12,6 +12,9 @@ Welcome to my GitHub! I'm deeply passionate about **AI, fashion-tech, and music*
 
 ---
 
+## 💻 Tech Stack
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,javascript,java,python,tensorflow,pytorch,numpy,pandas,matplotlib,vscode,illustrator,premiere,photoshop)
+
 ## 🌟 Fav Projects
 - 🎨 [AI Fashion Stylist](https://github.com/jenniferbeni/AI-Stylist)
 - 🌐 [Pepperdine RND Website](https://github.com/jenniferbeni/RnD-Website)
